@@ -126,8 +126,8 @@ spec:
     <img width="1200 height="600" src="/img/deployments_services.png">
 </p>
 
-1. Продемонстрировать, что приложения видят друг друга с помощью Service.
-2. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
+4. Продемонстрировать, что приложения видят друг друга с помощью Service.
+5. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
 
 <p align="center">
     <img width="1200 height="600" src="/img/backend_to_frontend_pod_name.png">
